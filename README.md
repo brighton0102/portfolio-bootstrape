@@ -22,7 +22,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-.HTML 
+.HTML
 .CSS
 .BOOTSTRAPE
 
@@ -82,7 +82,11 @@ Open index.html using live server extension.
 - Twitter: [@brighton_ui](https://twitter.com/brighton_ui)
 - LinkedIn: [brighton](https://www.linkedin.com/in/brighton-mtandi-976615267/)
 
-<!-- FUTURE FEATURES-->
+👤 **Hamza Baig**
+
+- GitHub: [hamzabaig](https://github.com/hamzaw9)
+- Twitter: [hamzabaig](https://twitter.com/hamzabaig059)
+- LinkedIn: [hamzabaig](https://www.linkedin.com/in/hamza-baig-852058269/)
 
 ### Future Features <a name="Future-features"></a>
 
@@ -90,27 +94,17 @@ Open index.html using live server extension.
 - **[Intaraction-page]**
 - **[Contact-form]**
 
-
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project, kindly leave a comment below and share it with other web developers and lets enjoy this journey together.
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="Microverse Inc."></a>
 
 I would like to acknowledge my coding partners who helped me work on this project and meet my deadlines.
-
-  <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
